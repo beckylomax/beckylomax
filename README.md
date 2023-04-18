@@ -1,4 +1,4 @@
-<p align="left">Documentary maker turned web developer</p>
+<p align="left">Documentary maker turned software developer</p>
 
 📫 becky.lomax@me.com
 
